@@ -25,4 +25,4 @@ Please refer to the LICENSE in the repo.
 ---
 ## Screenshots
 Useage
-![Alt Screenshot of application running](./ScreenShot1.jpg)
+![Alt Screenshot of application running](./Screenshot1.jpg)
